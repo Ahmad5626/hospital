@@ -1098,6 +1098,9 @@ Book Appointment Area CSS
   text-align: center;
   border-radius: 50px;
 }
+.buy-now-btn{
+  display: none !important;
+}
 .ui-datepicker .ui-state-active, .ui-datepicker .ui-widget-content .ui-state-active {
   border-color: var(--main-color);
   background: var(--main-color);

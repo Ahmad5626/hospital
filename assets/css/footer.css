@@ -78,7 +78,7 @@ Footer Area CSS
   color: var(--optional-color);
   padding-left: 20px;
 }
-.single-footer-widget .quick-links li a::before {
+/* .single-footer-widget .quick-links li a::before {
   content: "\ea6e";
   position: absolute;
   left: 0;
@@ -86,7 +86,7 @@ Footer Area CSS
   transition: var(--transition);
   font-family: "remixicon";
   font-size: 18px;
-}
+} */
 .single-footer-widget .quick-links li:last-child {
   margin-bottom: 0;
 }
