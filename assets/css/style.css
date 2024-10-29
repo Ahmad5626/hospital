@@ -884,11 +884,12 @@ Easy Solutions Area CSS
   display: inline-block;
   height: 70px;
   width: 70px;
-  line-height: 70px;
+ 
   background: var(--gradient-color);
   border-radius: 10px;
   color: var(--main-color);
   text-align: center;
+  padding: 10px;
   font-size: 35px;
   transition: var(--transition);
 }
@@ -6574,3 +6575,12 @@ Buy Now Btn
     transform: scale3d(1, 1, 1);
   }
 }/*# sourceMappingURL=style.css.map */
+.single-solutions-card .icon{
+  width: 50px;
+}
+.single-solutions-card .icon i img{
+  filter: brightness(1) invert(1);
+} 
+.single-services-card .image img{
+  filter: brightness(1) invert(1);
+}
