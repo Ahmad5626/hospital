@@ -577,8 +577,8 @@ Main Banner Area CSS
 }
 .main-banner-image-with-doctor .banner-doctor-content .doctor-info-box .info-item img {
   display: inline-block;
-  height: 52px;
-  width: 52px;
+  height: 30px;
+  width: 33px;
   border-radius: 50%;
   position: absolute;
   left: 0;
@@ -6583,4 +6583,9 @@ Buy Now Btn
 } 
 .single-services-card .image img{
   filter: brightness(1) invert(1);
+}
+
+.info-item img{
+  filter: brightness(1) invert(1);
+
 }
