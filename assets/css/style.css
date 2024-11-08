@@ -6595,7 +6595,7 @@ Buy Now Btn
   width: 22%;
   padding: 40px;
   transition: 0.5s;
-  border-bottom:3px solid #1f64ff;
+  border-bottom:3px solid #3a9cff;
  
 }
 .cancer-innner-box:hover{
@@ -6618,6 +6618,7 @@ Buy Now Btn
   width: 100%;
   height: 100%;
   object-fit: contain;
+  filter: brightness(1.5);
 }
 .cancer-box{
   row-gap: 40px;
@@ -6635,5 +6636,5 @@ border-bottom:0px solid #1f64ff;
   font-weight: bold;
 }
 .cancer-text{
-  color: #000d44 !important;
+  color: black !important;
 }
