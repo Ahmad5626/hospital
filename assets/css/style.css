@@ -6600,8 +6600,8 @@ Buy Now Btn
 }
 .cancer-innner-box:hover{
   box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
-  border-bottom-width: 0px ;
-  border-bottom-width: 2px  ;
+    border-bottom-width: 0px ;
+    border-bottom-width: 2px  ;
 }
 @media(max-width: 767px){
 
@@ -6626,6 +6626,9 @@ Buy Now Btn
 box-shadow: 0px 0px 0px !important;
 padding: 0px;
 border-bottom:0px solid #1f64ff;
+}
+.new-cancer-innner-box:hover{
+  border-bottom-width: 0px  ;
 }
 .cancer-care{
   color: #18a0ed;
